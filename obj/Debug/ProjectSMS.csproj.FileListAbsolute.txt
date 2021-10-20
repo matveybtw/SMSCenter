@@ -1,0 +1,7 @@
+D:\Програмизм\ProjectSMS\bin\Debug\ProjectSMS.exe.config
+D:\Програмизм\ProjectSMS\bin\Debug\ProjectSMS.exe
+D:\Програмизм\ProjectSMS\bin\Debug\ProjectSMS.pdb
+D:\Програмизм\ProjectSMS\obj\Debug\ProjectSMS.csproj.AssemblyReference.cache
+D:\Програмизм\ProjectSMS\obj\Debug\ProjectSMS.csproj.CoreCompileInputs.cache
+D:\Програмизм\ProjectSMS\obj\Debug\ProjectSMS.exe
+D:\Програмизм\ProjectSMS\obj\Debug\ProjectSMS.pdb
